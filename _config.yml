@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Blog HMIS-GallardoMartínez
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Esto es un blog de apoyo para la asignatura de HMIS. Se muestra las páginas de los creadores
+  y algunos temas de interés para la misma. 
 baseurl: "/GallardoMartinez" # the subpath of your site, e.g. /blog
 url: "https://ualhmis2025-lasvecinasdevalencia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
