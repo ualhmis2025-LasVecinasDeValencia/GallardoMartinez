@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Sobre Miguel"
-date: 2025-03-18
+title: "Sobre Antonio"
+date: 2025-03-19
 categories: blog
 ---
 # 🚀 Perfil – Herramientas y Métodos de la Ingeniería del Software  
