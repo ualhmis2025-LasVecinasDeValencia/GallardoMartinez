@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Formulario"
+date: 2025-03-19
+categories: blog
+---
+
 <!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/xeoazdeb"
