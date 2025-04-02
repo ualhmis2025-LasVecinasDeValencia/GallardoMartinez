@@ -23,7 +23,7 @@ email: agg860@inlumine.ual.es
 description: >- # this means to ignore newlines until "baseurl:"
   Esto es un blog de apoyo para la asignatura de HMIS. Se muestra las páginas de los creadores
   y algunos temas de interés para la misma. 
-baseurl: "/GallardoMartinez" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ualhmis2025-lasvecinasdevalencia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: miguelmtsm
 github_username: ualmms172
